@@ -12,13 +12,17 @@
 
 🛠 Tools Used
 MS Excel (Data cleaning, analysis,Visualization & Dashboard creation)
+
 ### Excel Skills Used
 The following Excel skills were utilized for analysis:
-
 - **📉 Charts**
 - **🧮 Formulas and Functions**
 - **❎ Data Validation**
 
+## 🤝 Let's Connect!  
+If you find this project useful, **give it a ⭐** and feel free to contribute!  
+
+📩 Contact me on **[LinkedIn](https://www.linkedin.com/in/rajdeep-kumar-74607a254/)**  
 
 
 
